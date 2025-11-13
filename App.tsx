@@ -69,9 +69,9 @@ const App: React.FC = () => {
                 </main>
             </div>
              <footer className="text-center mt-8 text-gray-500">
-                <a href="https://github.com/gemini-apps/double-number-line" target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-2 hover:text-gray-700 transition-colors">
+                <a href="https://github.com/google-gemini" target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-2 hover:text-gray-700 transition-colors">
                     <GithubIcon className="w-5 h-5" />
-                    View on GitHub
+                    GitHub에서 보기
                 </a>
             </footer>
         </div>
